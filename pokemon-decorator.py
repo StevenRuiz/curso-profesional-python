@@ -20,7 +20,7 @@ def question(pokemon="Ivysaur"):
 @type_pokemon
 def second_type_pokemon():
     print('Ademas es de tipo VENENO')
-    print('Aun puede evolucionar')
+    print('Tendrá mega evolucion algun día')
 
 
 def run():
