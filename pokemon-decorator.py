@@ -19,6 +19,7 @@ def question(pokemon="Bulbasaur"):
 @type_pokemon
 def second_type_pokemon():
     print('Ademas es de tipo VENENO')
+    print('Aun puede evolucionar')
 
 
 def run():
