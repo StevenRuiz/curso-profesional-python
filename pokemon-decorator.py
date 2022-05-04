@@ -12,7 +12,7 @@ def type_pokemon(func):
     return wrapper_type
 
 @answer
-def question(pokemon="Ivysaur"):
+def question(pokemon="Venusaur"):
     print('¡Es: ' + pokemon + '!')
     print('Es el número 2')
 
